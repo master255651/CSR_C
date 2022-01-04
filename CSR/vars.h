@@ -1,0 +1,2 @@
+char* GetAlphabet();
+char* GetNumbers();

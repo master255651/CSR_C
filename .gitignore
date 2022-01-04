@@ -1,0 +1,6 @@
+*.suo
+*.layout
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+
